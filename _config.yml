@@ -1,7 +1,7 @@
 # GitHub Pages (Jekyll) 設定
 title: Astra Works
 description: AI を活用したデジタルコンテンツの企画・制作・配信を行う個人事業
-theme: jekyll-theme-minimal
+theme: minima
 lang: ja
 
 # サイト URL (Custom Domain: astra-works.net)
