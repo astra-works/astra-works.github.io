@@ -3,8 +3,6 @@ layout: default
 title: Astra Works
 ---
 
-# Astra Works
-
 **Astra Works（アストラ ワークス）** は、AI を活用したデジタルコンテンツの
 企画・制作・配信を行う個人事業です。
 
