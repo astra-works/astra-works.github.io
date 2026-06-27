@@ -1,0 +1,21 @@
+# GitHub Pages (Jekyll) 設定
+title: Astra Works
+description: AI を活用したデジタルコンテンツの企画・制作・配信を行う個人事業
+theme: jekyll-theme-minimal
+lang: ja
+
+# サイト URL (Custom Domain: astra-works.net)
+# ドメイン切替が完了するまで CNAME はコミットしない（pythia-docs との衝突回避）
+url: https://astra-works.net
+baseurl: ""
+
+# 事業者
+author: Astra Works
+
+# ナビゲーション
+header_pages:
+  - contact.md
+
+# ソース除外
+exclude:
+  - README.md
