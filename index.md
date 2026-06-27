@@ -22,4 +22,4 @@ title: Astra Works
 
 ## お問い合わせ
 
-事業に関するお問い合わせは [お問い合わせ](contact.html) ページをご覧ください。
+事業に関するお問い合わせは `contact@astra-works.net` までご連絡ください。

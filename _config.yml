@@ -12,10 +12,6 @@ baseurl: ""
 # 事業者
 author: Astra Works
 
-# ナビゲーション
-header_pages:
-  - contact.md
-
 # ソース除外
 exclude:
   - README.md

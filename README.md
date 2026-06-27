@@ -8,8 +8,7 @@
 
 | ファイル | 内容 |
 |---|---|
-| `index.md` | トップ（事業紹介） |
-| `contact.md` | お問い合わせ |
+| `index.md` | トップ（事業紹介＋問い合わせ先 contact@astra-works.net） |
 | `_config.yml` | Jekyll 設定 |
 
 ## TODO（サービス開始時に追加）
